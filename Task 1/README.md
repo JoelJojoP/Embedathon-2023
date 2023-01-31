@@ -1,8 +1,5 @@
 # Task 1
 
-<hr>
-<br>
-
 ## Problem Statement
 
 Write a program for a server and a client in python with the following features:
@@ -76,3 +73,4 @@ The server and client programs uses concurrent communication. This is done by us
 
 ## Output
 
+https://user-images.githubusercontent.com/97270737/215691106-2e92ca30-a7ae-4b1f-b16f-66c6e10b1028.mp4
