@@ -1,16 +1,10 @@
 # Embedathon 2023
 
-<hr>
-
 ### Team Name: Ardu_Pi
 ### Team Members:
 
 1. [Joel Jojo Painuthara](https://github.com/JoelJojoP)
 2. [Kaliki Venkata Srinanda](https://github.com/srinandakv)
-
-<hr>
-
-<br>
 
 ## Technologies Used
 
