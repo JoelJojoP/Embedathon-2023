@@ -8,11 +8,11 @@
 
 ## Technologies Used
 
-[![Tech_Used](https://skills.thijs.gg/icons?i=py&theme=dark)](https://skills.thijs.gg)
+[![Tech_Used](https://skills.thijs.gg/icons?i=py,arduino&theme=dark)](https://skills.thijs.gg)
 
 ## Getting Started
 
-The programs in this repository uses the ```websockets``` and ```asyncio``` python module. 
+The programs in this repository uses the ```websockets``` and ```asyncio``` python module. Arduino IDE is used for hardaware task implementation. 
 
 Use ```pip``` to install ```asyncio``` and ```websockets```. Enter these commands in a terminal:
 
@@ -26,3 +26,7 @@ After installing the modules, clone this repository
 ```bash
 git clone https://github.com/JoelJojoP/Embedathon-2023.git
 ```
+
+To install Arduino IDE follow [this](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE).
+
+To install NodeMCU board in Arduino IDE follow [this](https://lastminuteengineers.com/esp8266-nodemcu-arduino-tutorial/).
