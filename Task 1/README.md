@@ -74,3 +74,5 @@ The server and client programs uses concurrent communication. This is done by us
 ## Output
 
 https://user-images.githubusercontent.com/97270737/215691106-2e92ca30-a7ae-4b1f-b16f-66c6e10b1028.mp4
+
+> If video is not visible, it can be seen [here](https://drive.google.com/file/d/1es86Xc1d0jGBXi7zxb96UUQtkegMVAQe/view?usp=sharing)
