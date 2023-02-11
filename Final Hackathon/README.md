@@ -28,7 +28,7 @@ Video Link: https://drive.google.com/file/d/1AwbHgDcjIlbUEeIA5s928ko5vxbVRTFY/vi
 
 ### Milestone 4:
 
-Status:In Progress
+Status:Completed
 
 <br>
 
