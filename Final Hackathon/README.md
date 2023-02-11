@@ -12,6 +12,8 @@ Video Link: https://drive.google.com/file/d/1V2hffQ5p0deptqgWJqVxGrd8M-QIULBz/vi
 
 ### Milestone 2:
 
+Status: Completed
+
 Video Link: https://drive.google.com/file/d/1v3ERIvHVU7TlMJy_Ldbs5dOaJG42LrJX/view?usp=share_link
 
 <br>
