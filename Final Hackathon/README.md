@@ -12,7 +12,7 @@ Video Link: https://drive.google.com/file/d/1V2hffQ5p0deptqgWJqVxGrd8M-QIULBz/vi
 
 ### Milestone 2:
 
-Status: In progress
+Video Link: https://drive.google.com/file/d/1v3ERIvHVU7TlMJy_Ldbs5dOaJG42LrJX/view?usp=share_link
 
 <br>
 
@@ -26,7 +26,7 @@ Video Link: https://drive.google.com/file/d/1AwbHgDcjIlbUEeIA5s928ko5vxbVRTFY/vi
 
 ### Milestone 4:
 
-Status: Yet to start
+Status:In Progress
 
 <br>
 
