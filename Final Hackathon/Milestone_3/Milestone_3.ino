@@ -12,6 +12,12 @@ Adafruit_MPU6050 mpu;
 
 void setup(void) {
   Serial.begin(115200);
+  //Disable sleep mode in MPU6050
+  Wire.begin();
+  Wire.beginTransmission(0x68);
+  Wire.write(0x6B); 
+  Wire.write(0);     
+  Wire.endTransmission(true);
   mpu.begin();
   mpu.setAccelerometerRange(MPU6050_RANGE_8_G);
   mpu.setGyroRange(MPU6050_RANGE_500_DEG);
