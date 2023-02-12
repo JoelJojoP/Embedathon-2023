@@ -19,15 +19,13 @@ async def client():
                 y = float(y[1])
                 z = float(z[1])
                 if x > 30:
-                    keyboard.press_and_release('right')
+                    keyboard.press_and_release('d')
                 elif x < -30:
-                    keyboard.press_and_release('left')
+                    keyboard.press_and_release('a')
                 if y > 30:
-                    keyboard.press_and_release('up')
+                    keyboard.press_and_release('w')
                 elif y < -30:
-                    keyboard.press_and_release('down')
-                if z > 30:
-                    keyboard.press_and_release('space')
+                    keyboard.press_and_release('s')
 
 try:
     asyncio.run(client())

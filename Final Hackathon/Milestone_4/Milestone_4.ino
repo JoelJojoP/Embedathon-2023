@@ -40,6 +40,12 @@ void setup() {
   Serial.println(WiFi.localIP());
   server.listen(80);
   Serial.println("");
+  //Disable sleep mode in MPU6050
+  Wire.begin();
+  Wire.beginTransmission(0x68);
+  Wire.write(0x6B); 
+  Wire.write(0);     
+  Wire.endTransmission(true);
   mpu.begin();
   mpu.setAccelerometerRange(MPU6050_RANGE_8_G);
   mpu.setGyroRange(MPU6050_RANGE_500_DEG);
@@ -81,7 +87,7 @@ void loop() {
       client.send("Button Pressed");
       Serial.println("Sent: Button Pressed");
       prevButtonState = 1;
-    } else {
+    } else if(digitalRead(ButtonPin) == 0){
       client.send(msg);
       Serial.print("Sent: ");
       Serial.println(msg);
