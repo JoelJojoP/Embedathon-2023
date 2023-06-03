@@ -2,7 +2,7 @@ import asyncio
 import websockets
 
 async def client():
-    async with websockets.connect("ws://192.168.36.211:80") as websocket:
+    async with websockets.connect("") as websocket:
         while True:
             greeting = await websocket.recv()
             print(greeting)

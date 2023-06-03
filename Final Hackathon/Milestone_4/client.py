@@ -6,7 +6,7 @@ import mouse
 async def client():
     while True:
         try:
-            async with websockets.connect("ws://192.168.36.211:80") as websocket:
+            async with websockets.connect("") as websocket:
                 while True:
                     info = await websocket.recv()
                     print(info)

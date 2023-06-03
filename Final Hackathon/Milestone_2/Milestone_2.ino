@@ -1,8 +1,8 @@
 #include <ArduinoWebsockets.h>
 #include <ESP8266WiFi.h>
 
-const char* ssid = "Joel Redmi"; 
-const char* password = "joejoj@2002"; 
+const char* ssid = ""; 
+const char* password = ""; 
 
 int isConnected = 0;
 

@@ -6,8 +6,8 @@
 
 #define ButtonPin D0
 
-const char* ssid = "Joel Redmi";
-const char* password = "joejoj@2002";
+const char* ssid = "";
+const char* password = "";
 
 int isConnected = 0;
 
