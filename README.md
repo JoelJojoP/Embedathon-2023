@@ -8,7 +8,7 @@
 
 ## Technologies Used
 
-[![Tech_Used](https://skills.thijs.gg/icons?i=py,arduino&theme=dark)](https://skills.thijs.gg)
+[![Tech_Used](https://skillicons.dev/icons?i=py,arduino&theme=dark)](https://skillicons.dev)
 
 ## Getting Started
 
